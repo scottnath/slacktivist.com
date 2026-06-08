@@ -15,6 +15,6 @@ export const Default = meta.story({
 
 export const CustomName = meta.story({
   args: {
-    name: 'devx-template',
+    name: 'slacktivist.com',
   },
 });

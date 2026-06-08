@@ -8,7 +8,7 @@ export default defineMain({
   },
   viteFinal: async (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/devx-template/storybook/';
+      config.base = '/storybook/';
     }
     return config;
   },
