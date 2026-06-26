@@ -2,10 +2,11 @@
 title: A day at slacktivist
 description: This is a post about nothing. I did not have time to post.
 date: 2026-06-25
-tags:
-  - slacktivist
-  - atproto
+tags: 
 ogImage: /finger-button.png
+atprotoUri: at://did:plc:oo5ar6gz52vqqgqhabc7jdqu/site.standard.document/3mp5yzyfpfh2s
+atprotoRkey: 3mp5yzyfpfh2s
+bskyPostUri: at://did:plc:oo5ar6gz52vqqgqhabc7jdqu/app.bsky.feed.post/3mp5yzyempz2g
 ---
 
 Imma level with ya - this is a blank page. Lookin for words? Got NONE son. Slackin actively.
