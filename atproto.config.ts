@@ -7,7 +7,7 @@ export default {
   postPathPrefix: '/blog',
   publication: {
     name: 'slacktivist.com',
-    description: 'Scott Nath — slack activism, dev, and the open web',
+    description: 'Things will get better after this petition is signed.',
   },
   statePath: 'atproto-state.json',
   syndicationPath: 'atproto-syndication.json',
