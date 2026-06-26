@@ -24,3 +24,7 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# ATProto sync state (CI may commit these — optional per repo)
+atproto-state.json
+atproto-syndication.json
