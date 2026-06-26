@@ -2,7 +2,6 @@
 title: A day at slacktivist
 description: This is a post about nothing. I did not have time to post.
 date: 2026-06-25
-tags: 
 ogImage: /finger-button.png
 atprotoUri: at://did:plc:oo5ar6gz52vqqgqhabc7jdqu/site.standard.document/3mp5yzyfpfh2s
 atprotoRkey: 3mp5yzyfpfh2s
