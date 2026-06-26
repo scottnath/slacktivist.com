@@ -12,6 +12,9 @@ on:
       - 'package.json'
       - 'package-lock.json'
       - 'README.md'
+  # Refresh static Bluesky engagement (likes, quotes, comments) at build time.
+  schedule:
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 concurrency:
